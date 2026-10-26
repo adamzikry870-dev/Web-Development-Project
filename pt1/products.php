@@ -16,9 +16,9 @@ ob_start();
             <div class="col">
                 <h5 class="mb-0">
                     <i class="bi bi-pencil-square text-primary me-2"></i>
-                    Product Form
+                    Products Form
                 </h5>
-                <small class="text-muted">Fill in the details of a product</small>
+                <small class="text-muted">Fill in the details of the product</small>
             </div>
             <div class="col-auto">
                 <span class="badge bg-primary">* Required fields</span>
@@ -131,8 +131,8 @@ ob_start();
                 </thead>
                 <tbody>
                     <tr>
-                        <td>KB-ERG-001</td>
-                        <td>Alice Layout Split Mechanical Keyboard</td>
+                        <td>P001</td>
+                        <td>mWave for PC Mechanical Keyboard</td>
                         <td>$149.99</td>
                         <td>Kinesis</td>
                         <td>
