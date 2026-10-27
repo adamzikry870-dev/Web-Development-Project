@@ -2,7 +2,7 @@
   <div class="container-fluid p-0 min-vh-100">
     <div class="row g-0 min-vh-100">
  
-      <div id="mySidebar" class="col-auto bg-dark text-white offcanvas-lg offcanvas-start">
+      <div id="mySidebar" class="col-auto bg-secondary text-white offcanvas-lg offcanvas-start">
         <div class="p-4">
           <a href="#" class="navbar-brand">
             <div class="row">

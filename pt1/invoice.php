@@ -43,7 +43,7 @@ ob_start();
         </div>
         <div class="table-responsive">
             <table class="table table-striped">
-                <thead class="table-dark">
+                <thead class="table-secondary">
                     <tr>
                         <th>#</th>
                         <th>Product</th>

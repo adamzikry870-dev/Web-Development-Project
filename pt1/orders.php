@@ -52,10 +52,10 @@ ob_start();
             <hr class="mt-4 mb-3">
              
             <div>
-                <button type="submit" name="create" class="btn btn-primary">
+                <button type="submit" name="create" class="btn btn-success">
                     <i class="bi bi-save me-1"></i>Create
                 </button>
-                <button type="reset" class="btn btn-secondary">
+                <button type="reset" class="btn btn-danger">
                     <i class="bi bi-arrow-counterclockwise me-1"></i>Clear
                 </button>
             </div>
@@ -83,7 +83,7 @@ ob_start();
  
         <div class="table-responsive">
             <table class="table table-striped table-hover">
-                <thead class="table-dark">
+                <thead class="table-secondary">
                     <tr>
                         <th>Order ID</th>
                         <th>Order Date</th>

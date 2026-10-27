@@ -55,7 +55,7 @@ ob_start();
         <hr>
         <div class="table-responsive">
             <table class="table table-striped table-hover">
-                <thead class="table-dark">
+                <thead class="table-secondary">
                     <tr>
                         <th>Product</th>
                         <th>Unit Price</th>
